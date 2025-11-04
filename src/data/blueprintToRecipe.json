@@ -1,0 +1,2986 @@
+[
+    {
+        "name": "Anvil",
+        "needs": [
+            "5x Mechanical Components",
+            "5x Simple Gun Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Anvil Splitter",
+        "needs": [
+            "?"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Angled Grip II",
+        "needs": [
+            "2x Mechanical Components",
+            "3x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Angled Grip III",
+        "needs": [
+            "2x Mod Components",
+            "5x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Barricade Kit",
+        "needs": [
+            "1x Mechanical Components"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Bettina",
+        "needs": [
+            "3x Advanced Mechanical Components",
+            "3x Heavy Gun Parts",
+            "3x Canister"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Blaze Grenade",
+        "needs": [
+            "1x Explosive Compound",
+            "2x Oil"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Bobcat",
+        "needs": [
+            "?"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Burletta",
+        "needs": [
+            "3x Mechanical Components",
+            "3x Simple Gun Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Combat Mk. 3 (Aggressive)",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "3x Processor"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Combat Mk. 3 (Flanking)",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "3x Processor"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Compensator II",
+        "needs": [
+            "2x Mechanical Components",
+            "4x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Compensator III",
+        "needs": [
+            "2x Mod Components",
+            "8x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Complex Gun Parts",
+        "needs": [
+            "2x Light Gun Parts",
+            "2x Medium Gun Parts",
+            "2x Heavy Gun Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Defibrillator",
+        "needs": [
+            "9x Plastic Parts",
+            "1x Moss"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Explosive Mine",
+        "needs": [
+            "1x Explosive Compound",
+            "1x Sensors"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Extended Barrel",
+        "needs": [
+            "2x Mod Components",
+            "8x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Extended Light Magazine II",
+        "needs": [
+            "2x Mechanical Components",
+            "3x Steel Spring"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Light Magazine III",
+        "needs": [
+            "2x Mod Components",
+            "5x Steel Spring"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Medium Magazine II",
+        "needs": [
+            "2x Mechanical Components",
+            "3x Steel Spring"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Medium Magazine III",
+        "needs": [
+            "2x Mod Components",
+            "5x Steel Spring"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Shotgun Magazine II",
+        "needs": [
+            "2x Mechanical Components",
+            "3x Steel Spring"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Shotgun Magazine III",
+        "needs": [
+            "2x Mod Components",
+            "5x Steel Spring"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Equalizer",
+        "needs": [
+            "3x Magnetic Accelerator",
+            "3x Complex Gun Parts",
+            "1x Queen Reactor"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Heavy Gun Parts",
+        "needs": [
+            "4x Simple Gun Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Horizontal Grip",
+        "needs": [
+            "2x Mod Components",
+            "5x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Hullcracker",
+        "needs": [
+            "1x Magnetic Accelerator",
+            "3x Heavy Gun Parts",
+            "1x Exodus Modules"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Il Toro",
+        "needs": [
+            "5x Mechanical Components",
+            "6x Simple Gun Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Jolt Mine",
+        "needs": [
+            "1x Electrical Components",
+            "1x Battery"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Jupiter",
+        "needs": [
+            "3x Magnetic Accelerator",
+            "3x Complex Gun Parts",
+            "",
+            "1x Queen Reactor"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Kinetic Converter",
+        "needs": [
+            "?"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Launcher Ammo",
+        "needs": [
+            "4x Metal Parts",
+            "1x Refined Explosives"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Light Gun Parts",
+        "needs": [
+            "4x Simple Gun Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Light Stick (Any Color)",
+        "needs": [
+            "3x Chemicals"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Lightweight Stock",
+        "needs": [
+            "2x Mod Components",
+            "5x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Looting Mk. 3 (Survivor)",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "3x Processor"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Lure Grenade",
+        "needs": [
+            "1x Speaker Component",
+            "1x Electrical Components"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Medium Gun Parts",
+        "needs": [
+            "4x Simple Gun Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Muzzle Brake II",
+        "needs": [
+            "2x Mechanical Components",
+            "4x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Muzzle Brake III",
+        "needs": [
+            "2x Mod Components",
+            "8x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Osprey",
+        "needs": [
+            "2x Advanced Mechanical Components",
+            "3x Medium Gun Parts",
+            "7x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Padded Stock",
+        "needs": [
+            "2x Mod Components",
+            "5x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Remote Raider Flare",
+        "needs": [
+            "2x Chemicals",
+            "4x Rubber Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Shotgun Choke II",
+        "needs": [
+            "2x Mechanical Components",
+            "4x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Shotgun Choke III",
+        "needs": [
+            "2x Mod Components",
+            "8x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Shotgun Silencer",
+        "needs": [
+            "2x Mod Components",
+            "8x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Showstopper",
+        "needs": [
+            "1x Advanced Electrical Components",
+            "1x Voltage Converter"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Silencer I",
+        "needs": [
+            "2x Mechanical Components",
+            "4x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Silencer II",
+        "needs": [
+            "2x Mod Components",
+            "8x Wires"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Silencer III",
+        "needs": [
+            "?"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Smoke Grenade",
+        "needs": [
+            "14x Chemicals",
+            "1x Canister"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Snap Hook",
+        "needs": [
+            "2x Power Rod",
+            "3x Rope",
+            "1x Exodus Modules"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Stable Stock II",
+        "needs": [
+            "2x Mechanical Components",
+            "3x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Stable Stock III",
+        "needs": [
+            "2x Mod Components",
+            "5x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Tactical Mk. 3 (Defensive)",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "3x Processor"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tactical Mk. 3 (Healing)",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "3x Processor"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tagging Grenade",
+        "needs": [
+            "1x Electrical Components",
+            "1x Sensors"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Tempest",
+        "needs": [
+            "?"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Torrente",
+        "needs": [
+            "2x Advanced Mechanical Components",
+            "3x Medium Gun Parts",
+            "6x Steel Spring"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Trigger 'Nade",
+        "needs": [
+            "2x Crude Explosives",
+            "1x Processor"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Venator",
+        "needs": [
+            "2x Advanced Mechanical Components",
+            "3x Medium Gun Parts",
+            "5x Magnet"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Vertical Grip II",
+        "needs": [
+            "2x Mechanical Components",
+            "3x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Vertical Grip III",
+        "needs": [
+            "2x Mod Components",
+            "5x Duct Tape"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Vita Shot",
+        "needs": [
+            "2x Antiseptic",
+            "1x Syringe"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Vita Spray",
+        "needs": [
+            "3x Antiseptic",
+            "1x Canister"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Vulcano",
+        "needs": [
+            "1x Magnetic Accelerator",
+            "3x Heavy Gun Parts",
+            "1x Exodus Modules"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Wolfpack",
+        "needs": [
+            "3x Explosive Compound",
+            "2x ARC Motion Core"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Adrenaline Shot",
+        "needs": [
+            "3x Plastic Parts",
+            "3x Chemicals"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Advanced ARC Powercell",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Advanced Electrical Components",
+        "needs": [
+            "3x Wires",
+            "2x Electrical Components"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Advanced Electrical Components Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Advanced Mechanical Components",
+        "needs": [
+            "2x Steel Spring",
+            "2x Mechanical Components"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Advanced Mechanical Components Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Agave",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Agave Juice",
+        "needs": [
+            "1x Agave",
+            "1x Empty Wine Bottle"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Air Freshener",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Alarm Clock",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Angled Grip II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Angled Grip III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Antiseptic",
+        "needs": [
+            "10x Chemicals",
+            "2x Great Mullein"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Anvil Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Anvil II",
+        "needs": [
+            "1x Anvil I",
+            "3x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Anvil III",
+        "needs": [
+            "1x Anvil II",
+            "4x Mechanical Components",
+            "1x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Anvil IV",
+        "needs": [
+            "4x Mechanical Components",
+            "1x Heavy Gun Parts",
+            "1x Anvil III"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Anvil Splitter Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Aphelion Rifle",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Aphelion Rifle Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Apricot",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "ARC Alloy",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "ARC Circuitry",
+        "needs": [
+            "8x ARC Alloy"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "ARC Circuitry Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "ARC Coolant",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "ARC Flex Rubber",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "ARC Motion Core",
+        "needs": [
+            "8x ARC Alloy"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "ARC Performance Steel",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "ARC Synthetic Resin",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "ARC Thermo Lining",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Arpeggio",
+        "needs": [
+            "6x Mechanical Components",
+            "6x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Arpeggio II",
+        "needs": [
+            "1x Arpeggio I",
+            "14x Metal Parts",
+            "3x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Arpeggio III",
+        "needs": [
+            "1x Arpeggio II",
+            "10x Metal Parts",
+            "4x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Arpeggio IV",
+        "needs": [
+            "1x Mechanical Components",
+            "2x Medium Gun Parts",
+            "1x Arpeggio III"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Assorted Seeds",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Aviator (Outfit)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bag (Radio Renegade Variant)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Banana (Backpack Charm)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bandage",
+        "needs": [
+            "5x Fabric"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Barricade Kit Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bastion Cell",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Battery",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bettina Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bettina II",
+        "needs": [
+            "1x Advanced Mechanical Components",
+            "2x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bettina III",
+        "needs": [
+            "1x Advanced Mechanical Components",
+            "2x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bettina IV",
+        "needs": [
+            "2x Advanced Mechanical Components",
+            "2x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bicycle Pump",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Binoculars",
+        "needs": [
+            "8x Plastic Parts",
+            "4x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bison Driver",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Black Eye (Face Style)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Black (Hiker Colour)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Black &amp; White (Origin Color)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Blaze Grenade Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Blaze Grenade Trap",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bloated Tuna Can",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Blue Gate Cellar Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Blue Gate Communication Tower Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Blue Gate Confiscation Room Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Blue Light Stick",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Blue Light Stick Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Blue (Radio Renegade Color)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Blue Yellow (Aviator Color)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bobcat Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bobcat II",
+        "needs": [
+            "1x Bobcat I",
+            "2x Advanced Mechanical Components",
+            "1x Light Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bobcat III",
+        "needs": [
+            "2x Advanced Mechanical Components",
+            "3x Light Gun Parts",
+            "1x Bobcat II"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bobcat IV",
+        "needs": [
+            "1x Bobcat III",
+            "2x Advanced Mechanical Components",
+            "3x Light Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bombardier Cell",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Bow and Arrow (Emote)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Breathtaking Snow Globe",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Briefcase (Backpack Attachment)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Broken Flashlight",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Broken Guidance System",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Broken Handcuffs",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Broken Handheld Radio",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Broken Riot Shield",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Broken Taser",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Burgerboy (Backpack Charm)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Buried City Hospital Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Buried City JKV Employee Access Card",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Buried City Residential Master Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Buried City Town Hall Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Burletta Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Burletta II",
+        "needs": [
+            "1x Burletta I",
+            "3x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Burletta III",
+        "needs": [
+            "1x Burletta II",
+            "3x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Burletta IV",
+        "needs": [
+            "1x Burletta III",
+            "4x Mechanical Components",
+            "1x Light Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Burned ARC Circuitry",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Camera Lens",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Candle Holder",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Canister",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Cans (Backpack Attachment)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Cat Bed",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Cheer (Emote)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Chemicals",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Coffee Pot",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Combat Mk. 1",
+        "needs": [
+            "6x Plastic Parts",
+            "6x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Combat Mk. 2",
+        "needs": [
+            "2x Electrical Components",
+            "3x Magnet"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Combat Mk.3 (Aggressive) Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Combat Mk.3 (Flanking) ",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "3x Processor"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Combat Mk. 3 (Flanking) Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Compensator II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Compensator III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Complex Gun Parts Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Cooling Coil",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Cooling Fan",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Cracked Bioscanner",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Crimson Racer (Aviator Colour)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Crude Explosives",
+        "needs": [
+            "6x Chemicals"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Crumpled Plastic Bottle",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Damaged ARC Motion Core",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Damaged ARC Powercell",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Damaged Fireball Burner",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Damaged Heat Sink",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Damaged Hornet Driver",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Damaged Rocketeer Driver",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Damaged Tick Pod",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Damaged Wasp Driver",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Dam Control Center Tower Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Dam Staff Room Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Dam Surveillance Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Dam Testing Annex Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Dam Utility Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Dart Board",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Deadline",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Deadline Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Defibrillator Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Deflated Football",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Degraded ARC Rubber",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Diving Googles",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Dog Collar",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Door Blocker",
+        "needs": [
+            "3x Metal Parts",
+            "3x Rubber Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Door Blocker Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Dried-Out ARC Resin",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Duct Tape",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Durable Cloth",
+        "needs": [
+            "14x Fabric"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Empty Wine Bottle",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Energy Ammo Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Energy Clip",
+        "needs": [
+            "1x Advanced ARC Powercell",
+            "2x Battery"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Equalizer Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Exodus Modules",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Expired Pasta",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Expired Respirator",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Explosive Compound",
+        "needs": [
+            "2x Crude Explosives",
+            "2x Oil"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Explosive Mine Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Barrel Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Light Mag II",
+        "needs": [
+            "1x Mechanical Components",
+            "1x Steel Spring"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Extended Light Mag II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Light Mag III",
+        "needs": [
+            "1x Mod Components",
+            "6x Steel Spring"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Extended Light Mag III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Medium Mag II",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Extended Medium Mag II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Medium Mag III",
+        "needs": [
+            "1x Mod Components",
+            "6x Steel Spring"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Extended Medium Mag III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Shotgun Mag II",
+        "needs": [
+            "1x Mechanical Components",
+            "1x Steel Spring"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Extended Shotgun Mag II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Extended Shotgun Mag III",
+        "needs": [
+            "1x Mod Components",
+            "6x Steel Spring"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Extended Shotgun Mag III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Fabric",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Faded Photograph",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ferro",
+        "needs": [
+            "5x Metal Parts",
+            "2x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ferro II",
+        "needs": [
+            "1x Ferro I",
+            "7x Metal Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ferro III",
+        "needs": [
+            "1x Ferro II",
+            "9x Metal Parts",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ferro IV",
+        "needs": [
+            "1x Ferro III",
+            "1x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Fertilizer",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Film Reel",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Fine Wristwatch",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Flame Spray",
+        "needs": [
+            "1x Air Freshener",
+            "1x Fireball Burner"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Free Loadout Augment",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Fried Motherboard",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Fruit Mix",
+        "needs": [
+            "1x Lemon",
+            "1x Apricot",
+            "1x Prickly Pear"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Frying Pan",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Garlic Press",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Gas Grenade",
+        "needs": [
+            "4x Chemicals",
+            "2x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Gas Grenade Trap",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Gas Mine",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Goggles (Radio Renegade Variant)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Great Mullein",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Green Light Stick",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Green Light Stick Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Hairpin",
+        "needs": [
+            "2x Metal Parts",
+            "5x Plastic Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Hairpin II",
+        "needs": [
+            "1x Hairpin I",
+            "8x Metal Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Hairpin III",
+        "needs": [
+            "1x Hairpin II",
+            "9x Metal Parts",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Hairpin IV",
+        "needs": [
+            "1x Hairpin III",
+            "1x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Happy Jig (Emote)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Headphones",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Heavy Ammo",
+        "needs": [
+            "3x Metal Parts",
+            "2x Chemicals"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Heavy Fuse Grenade Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Heavy Fuze Grenade",
+        "needs": [
+            "1x Explosive Compound",
+            "2x Canister"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Heavy Gun Parts Blueprint",
+        "needs": [
+            "4x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Heavy Shield",
+        "needs": [
+            "1x Power Rod",
+            "2x Voltage Converter"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Helmet (Radio Renegade Variant)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Herbal Bandage",
+        "needs": [
+            "1x Durable Cloth",
+            "1x Great Mullein"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Horizontal Grip Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Household Cleaner",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Hullcracker Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Hullcracker II",
+        "needs": [
+            "1x Advanced Mechanical Components",
+            "2x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Hullcracker III",
+        "needs": [
+            "2x Advanced Mechanical Components",
+            "1x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Hullcracker IV ",
+        "needs": [
+            "2x Advanced Mechanical Components",
+            "3x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Humidifier",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ice Cream Scooper",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Il Toro Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Il Toro II",
+        "needs": [
+            "1x Il Toro I",
+            "3x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Il Toro III",
+        "needs": [
+            "1x Il Toro II",
+            "4x Mechanical Components",
+            "1x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Il Toro IV",
+        "needs": [
+            "1x Il Toro III",
+            "4x Mechanical Components",
+            "1x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Impure ARC Coolant",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Industrial Battery",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Industrial Charger",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Industrial Magnet",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Jolt Mine Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Junior (Outfit)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Jupiter Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Kettle",
+        "needs": [
+            "8x Rubber Parts",
+            "6x Metal Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Kettle II",
+        "needs": [
+            "1x Kettle I",
+            "8x Metal Parts",
+            "10x Plastic Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Kettle III",
+        "needs": [
+            "1x Kettle II",
+            "10x Metal Parts",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Kettle IV",
+        "needs": [
+            "1x Kettle III",
+            "3x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Kinetic Converter Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Laboratory Reagents",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Lance's Mixtape (5th Edition)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Laser Trap: Fire Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Laser Trap: Gas Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Laser Trap: Lure",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Laser Trap: Smoke",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Launcher Ammo Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Leaper Pulse Unit",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Lemon",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Lidar Scanner",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Light Ammo",
+        "needs": [
+            "3x Metal Parts",
+            "2x Chemicals"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Light Bulb",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Light Gun Parts Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Light Impact Grenade",
+        "needs": [
+            "2x Plastic Parts",
+            "3x Chemicals"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Light Shield",
+        "needs": [
+            "2x ARC Alloy",
+            "4x Plastic Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Lightweight Stock Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Li'l Smoke Grenade",
+        "needs": [
+            "5x Chemicals",
+            "1x Plastic Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Looting Mk. 1",
+        "needs": [
+            "6x Plastic Parts",
+            "6x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Looting Mk. 2",
+        "needs": [
+            "2x Electrical Components",
+            "3x Magnet"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Looting MK. 3 (Cautious)",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "3x Processor"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Looting MK. 3 (Survivor) Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Lure Grenade Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Magnetic Accelerator",
+        "needs": [
+            "2x Advanced Mechanical Components",
+            "2x ARC Motion Core"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Mastery Medal (Backpack Charm)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Medium Ammo",
+        "needs": [
+            "3x Metal Parts",
+            "2x Chemicals"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Medium Gun Parts Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Medium Shield",
+        "needs": [
+            "1x ARC Circuitry",
+            "4x Battery"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Metal Brackets",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Metal Parts",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Mod Components",
+        "needs": [
+            "2x Mechanical Components",
+            "2x Steel Spring"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Mod Components Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Moss",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Motor",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Mushroom",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Music Album",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Music Box",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Muzzle Brake II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Muzzle Brake III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Noisemaker",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Number Plate",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Olives",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Orange Camo (Origin Outfit)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Osprey Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Osprey II",
+        "needs": [
+            "1x Osprey I",
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Osprey III",
+        "needs": [
+            "1x Osprey II",
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Osprey IV",
+        "needs": [
+            "1x Osprey III",
+            "2x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Padded Stock Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Painted Box",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Patrol Car Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Patrol (Outfit)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Photoelectric Cloak",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "4x Speaker Component"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Plastic Parts",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Playing Cards",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Polluted Air Filter",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Pop Trigger",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Portable TV",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Poster of Natural Wonder",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Pottery",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Power Bank",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Power Cable",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Power Rod",
+        "needs": [
+            "2x ARC Circuitry",
+            "2x Advanced Electrical Components"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Power Rod Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Prickly Pear",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Processor",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Projector",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Pulse Mine",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Pulse Mine Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Queen Reactor",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Radio Renegade (Outfit)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Raider Hatch Key",
+        "needs": [
+            "1x Advanced Electrical Components",
+            "3x Sensors"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rattler",
+        "needs": [
+            "16x Metal Parts",
+            "12x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rattler II",
+        "needs": [
+            "1x Rattler I",
+            "10x Metal Parts",
+            "10x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rattler III",
+        "needs": [
+            "1x Rattler II",
+            "3x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rattler IV",
+        "needs": [
+            "3x Mechanical Components",
+            "1x Simple Gun Parts",
+            "1x Rattler III"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Recorder",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Red Coral Jewelry",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Red Light Stick",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Red Light Stick Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Remote Control",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Remote Raider Flare Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Renegade Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Renegade II",
+        "needs": [
+            "1x Renegade I",
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Renegade III",
+        "needs": [
+            "1x Renegade II",
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Renegade IV",
+        "needs": [
+            "1x Renegade III",
+            "2x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ripped Safety Vest",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rocket Thruster",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rollbot Part",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Roots",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rope",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rosary",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rubber Duck",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rubber Pad",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rubber Parts",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ruined Accordion",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ruined Baton",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ruined Handcuffs",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ruined Parachute",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ruined Riot Shield",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Ruined Tactical Vest",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rusted Bolts",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rusted Gear",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rusted Shut Medical Kit",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rusted Tools",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Rusty ARC Steel",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Seeker Grenade",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Sensors",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Sentinel Firing Core",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Shield Recharger",
+        "needs": [
+            "5x Rubber Parts",
+            "1x ARC Powercell"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Shotgun ammo",
+        "needs": [
+            "3x Metal Parts",
+            "2x Chemicals"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Shotgun Choke II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Shotgun Choke III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Shotgun Parts",
+        "needs": [
+            "2x Simple Gun Parts"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Shotgun Parts Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Shotgun Silencer Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Showstopper Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Shrapnel Grenade",
+        "needs": [
+            "1x Crude Explosives",
+            "2x Steel Spring"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Silencer I Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Silencer II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Silencer III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Silver Teaspoon Set",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Simple Gun Parts",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Smoke Grenade Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Snap Blast Grenade",
+        "needs": [
+            "2x Crude Explosives",
+            "1x Magnet"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Snap Hook Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Snitch Scanner",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Spaceport Container Storage Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Spaceport Control Tower Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Spaceport Outskirts Bunker Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Spaceport Trench Tower Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Spaceport Warehouse Key",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Speaker Component",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Spotter Relay",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Spring Cushion",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Stable Stock II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Stable Stock III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Statuette",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Steel Spring",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Sterilized Bandage",
+        "needs": [
+            "1x Antiseptic",
+            "2x Durable Cloth"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Sterilized Bandage Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Stitcher",
+        "needs": [
+            "8x Metal Parts",
+            "4x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Stitcher II",
+        "needs": [
+            "1x Stitcher I",
+            "8x Metal Parts",
+            "12x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Stitcher III",
+        "needs": [
+            "1x Stitcher II",
+            "10x Metal Parts",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Stitcher IV",
+        "needs": [
+            "1x Stitcher III",
+            "3x Mechanical Components",
+            "1x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Succulent (Backpack Charm)",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Surge Shield Recharger",
+        "needs": [
+            "1x Electrical Components",
+            "1x Advanced ARC Powercell"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Surveyor Vault",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Synthesized Fuel",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Syringe",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tactical Mk. 1",
+        "needs": [
+            "6x Plastic Parts",
+            "6x Rubber Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tactical Mk. 2",
+        "needs": [
+            "2x Electrical Components",
+            "3x Magnet"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tactical Mk.3 (Defensive)",
+        "needs": [
+            "2x Advanced Electrical Components",
+            "3x Processor"
+        ],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Tactical MK.3 (Defensive) Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tactical MK.3 (Healing) Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tagging Grenade Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tattered ARC Lining",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tattered Clothes",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tempest I Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tempest II",
+        "needs": [
+            "1x Tempest I",
+            "2x Advanced Mechanical Components",
+            "1x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tempest III",
+        "needs": [
+            "1x Tempest II",
+            "2x Advanced Mechanical Components",
+            "3x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Tempest IV",
+        "needs": [
+            "1x Tempest III",
+            "2x Advanced Mechanical Components",
+            "3x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Thermostat",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Toaster",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Torch Ginger",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Torn Blanket",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Torn Book",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Torrente Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Torrente II",
+        "needs": [
+            "1x Torrente I",
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Torrente III",
+        "needs": [
+            "1x Torrente II",
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Torrente IV",
+        "needs": [
+            "3x Medium Gun Parts",
+            "1x Torrente III",
+            "3x Advanced Mechanical Components"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Trailblazer Grenade",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Trigger Nade",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Trigger Nade Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Turbo Pump",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Unusable Weapon",
+        "needs": [
+            "5x Simple Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vase",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Venator Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Venator II",
+        "needs": [
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts",
+            "1x Venator I"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Venator III",
+        "needs": [
+            "1x Venator II",
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Venator IV",
+        "needs": [
+            "1x Venator III",
+            "1x Advanced Mechanical Components",
+            "2x Medium Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vertical Grip II Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vertical Grip III Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Very Comfortable Pillow",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vita Shot Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vita Spray Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Volcanic Rock",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Voltage Converter",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vulcano Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vulcano II",
+        "needs": [
+            "1x Advanced Mechanical Components",
+            "2x Heavy Gun Parts",
+            "1x Vulcano I"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vulcano III",
+        "needs": [
+            "1x Vulcano II",
+            "2x Advanced Mechanical Components",
+            "1x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Vulcano IV",
+        "needs": [
+            "1x Vulcano III",
+            "2x Advanced Mechanical Components",
+            "3x Heavy Gun Parts"
+        ],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Water Filter",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Water Pump",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Wires",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Wolfpack Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Yellow Light Stick",
+        "needs": [],
+        "blueprintRequired": true
+    },
+    {
+        "name": "Yellow Light Stick Blueprint",
+        "needs": [],
+        "blueprintRequired": false
+    },
+    {
+        "name": "Zipline",
+        "needs": [
+            "1x Rope",
+            "1x Mechanical Components"
+        ],
+        "blueprintRequired": false
+    }
+]
